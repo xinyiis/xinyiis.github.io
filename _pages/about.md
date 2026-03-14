@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ### Personal Profile
-I am **Jun'ang Qi**, a junior undergraduate student majoring in **Software Engineering** at **China University of Petroleum (East China)** (UPC), Qingdao Campus, admitted in 2024 and expected to graduate in June 2027 with a Bachelor of Engineering degree.
+I am **Jun'ang Qi**, a junior undergraduate student majoring in **Software Engineering** at **China University of Petroleum (East China)** (UPC), Qingdao Campus, admitted in 2023 and expected to graduate in 2027 with a Bachelor of Engineering degree.
 
 During my undergraduate studies, I have centered my learning on **cultivating core competencies in software engineering**. I have solidly mastered professional knowledge in programming fundamentals, algorithm design, and software development. Meanwhile, I attach great importance to improving engineering practice and project implementation capabilities. I actively participate in course design, scientific and technological innovation projects, and algorithm competitions, striving to apply theoretical knowledge to practical development scenarios and gradually building a complete development thinking from demand analysis and technology selection to coding implementation.
 

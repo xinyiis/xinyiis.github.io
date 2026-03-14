@@ -26,7 +26,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Junang Qi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Jun'ang Qi is a junior undergraduate student majoring in Software Engineering at China University of Petroleum (East China), expected to graduate with a Bachelor of Engineering degree in June 2027. He has studied core professional courses including Data Structures, Operating Systems, Computer Networks, Database Principles and Algorithm Analysis, with proficient skills in Java and C/C++, and a good grasp of Python, SQL and HTML/CSS. He is familiar with using Spring Boot, Maven, Git, IntelliJ IDEA and MySQL in development, and masters basic abilities such as algorithm design, object-oriented programming, database operation and team collaboration. He has participated in multiple course design and scientific innovation projects, mainly responsible for core module development, back-end interface building and data processing, with related project development and practice experience, and has won certain academic honors and competition awards in school."
   location         : "China"
   employer         : "China University of Petroleum (East China)"
   uri              : # URL
